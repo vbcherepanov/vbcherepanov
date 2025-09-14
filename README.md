@@ -1,6 +1,6 @@
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&color=black&labelColor=blue)](https://t.me/vbcherepanov)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&color=black&labelColor=blue)](https://www.linkedin.com/in/progerinvr/)<br/>
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=Instagram&color=black&labelColor=red)](https://www.instagram.com/vbcherepanov/)<br/>
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&color=black&labelColor=blue)](https://t.me/vbcherepanov)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&color=black&labelColor=blue)](https://www.linkedin.com/in/progerinvr/)<br/>
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&color=black&labelColor=red)](https://www.instagram.com/vbcherepanov/)<br/>
 ### My stack
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
