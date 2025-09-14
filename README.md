@@ -1,4 +1,4 @@
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&label=telegram&message=vbcherepanovlogo=telegram&color=black&labelColor=blue)](https://t.me/vbcherepanov)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&label=telegram&message=vbcherepanov&logo=telegram&color=black&labelColor=blue)](https://t.me/vbcherepanov)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=linkedin&message=ProgerInVr&color=black&labelColor=blue)](https://www.linkedin.com/in/progerinvr/)<br/>
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=instagram&message=vbcherepanov&color=black&labelColor=red)](https://www.instagram.com/vbcherepanov/)<br/>
 ### My stack
